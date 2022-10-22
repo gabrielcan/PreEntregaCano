@@ -1,0 +1,12 @@
+.IconCarrito{
+    width: 100%;
+}
+.ContIconCarrito{
+    width: 4%;
+}
+
+@media screen and (max-width: 580px){
+    .ContIconCarrito{
+        width: 8%;
+    }   
+}
